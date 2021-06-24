@@ -1,2 +1,3 @@
 # jobs-crawling
-Web crawling using Requests, bs4
+Web crawling of Indeed, Stackoverflow Jobs
+<br> using Requests, bs4
